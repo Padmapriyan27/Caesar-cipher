@@ -80,4 +80,3 @@ The tool displays results in a beautiful table format showing:
 ---
 
 Made with ❤️ by [0xD4rkEYe]
-```
